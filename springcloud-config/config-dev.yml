@@ -1,5 +1,5 @@
 
 spring:
   application:
-    name: config-client11
+    name: config-client
  
